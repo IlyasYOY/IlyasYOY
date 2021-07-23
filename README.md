@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, my name Ilia Ilinykh 👋
 
-<!--
-**IlyasYOY/IlyasYOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a Software Developer @ _EPAM Systems_. Since 2018.
 
-Here are some ideas to get you started:
+#### Articles in Russian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Spring Validation 101](https://t.me/kydavoiti/6)
+- [Контракты и границы приложений](https://t.me/kydavoiti/7)
+- [Диплом по NLP](https://t.me/kydavoiti/10)
+- [Оч странная штука](https://t.me/kydavoiti/15) (не спрашивайте почему)
+- [Seize the block](https://t.me/kydavoiti/17)
+- [Последовательное распараллеливание](https://t.me/kydavoiti/20)
+- [Интерфейсы](https://t.me/kydavoiti/21) (почему стоит выделять абстракции)
+- [Бомбежка за ООП и здравый смысл](https://t.me/kydavoiti/24)
+- [Kotlin: Почему нет?](https://t.me/kydavoiti/30)
+- [Небольшая заметка о “честной” асинхронности](https://t.me/kydavoiti/35)
+- [Код пишет код](https://t.me/kydavoiti/36)
+- [Про GPL](https://t.me/kydavoiti/39)
+- [Spring Validation 101++](https://t.me/kydavoiti/43)
+- [Немного о Code Review](https://t.me/kydavoiti/46)
+- [Равномерное распределение строк](https://t.me/kydavoiti/53)
+- [Архитектура 21 века](https://t.me/kydavoiti/60). Обзор на [“Fundamentals of Software Architecture | Mark Richards, Neal Ford”](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)

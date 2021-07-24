@@ -19,4 +19,4 @@ I work as a Software Developer @ _EPAM Systems_. Since 2018.
 - [Spring Validation 101++](articles/validation-plus-plus.md)
 - [Немного о Code Review](articles/code-review.md)
 - [Равномерное распределение строк](articles/validation.md)
-- [Архитектура 21 века](https://t.me/kydavoiti/60). Обзор на [“Fundamentals of Software Architecture | Mark Richards, Neal Ford”](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- [Архитектура 21 века](articles/fund-architecture.md). Обзор на [“Fundamentals of Software Architecture | Mark Richards, Neal Ford”](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)

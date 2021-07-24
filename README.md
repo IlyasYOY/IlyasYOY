@@ -15,7 +15,7 @@ I work as a Software Developer @ _EPAM Systems_. Since 2018.
 - [Kotlin: Почему нет?](articles/no-kotlin.md)
 - [Небольшая заметка о “честной” асинхронности](articles/true-async.md)
 - [Код пишет код](articles/code-writes-code.md)
-- [Про GPL](https://t.me/kydavoiti/39)
+- [Про GPL](articles/martin-about-gpl.md)
 - [Spring Validation 101++](https://t.me/kydavoiti/43)
 - [Немного о Code Review](https://t.me/kydavoiti/46)
 - [Равномерное распределение строк](articles/validation.md)

@@ -5,7 +5,7 @@ I work as a Software Developer @ _EPAM Systems_. Since 2018.
 #### Articles in Russian
 
 - [Spring Validation 101](articles/validation.md)
-- [Контракты и границы приложений](https://t.me/kydavoiti/7)
+- [Контракты и границы приложений](articles/api.md)
 - [Диплом по NLP](https://t.me/kydavoiti/10)
 - [Оч странная штука](https://t.me/kydavoiti/15) (не спрашивайте почему)
 - [Seize the block](https://t.me/kydavoiti/17)

@@ -1,4 +1,6 @@
 # Fundamentals of Software Architecture | Mark Richards, Neal Ford
+[Telegram: Contact @kydavoiti](https://t.me/kydavoiti/60)
+
 [Купить книгу](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/). Прочитал про эту книгу у [Алименкова на канале](https://t.me/xpinjection_channel/450).
 [Telegram: Contact @kydavoiti](https://t.me/kydavoiti/60)
 

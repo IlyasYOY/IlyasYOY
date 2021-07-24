@@ -1,6 +1,11 @@
 ### Hi there, my name Ilia Ilinykh 👋
 
+Main language is Russian.
+
 I work as a Software Developer @ _EPAM Systems_. Since 2018.
+
+Chat with good company is [here](https://t.me/kydavoitichat).
+Channel where I post [things](https://t.me/kydavoiti).
 
 #### Articles in Russian
 

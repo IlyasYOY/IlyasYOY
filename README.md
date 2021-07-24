@@ -12,7 +12,7 @@ I work as a Software Developer @ _EPAM Systems_. Since 2018.
 - [Последовательное распараллеливание](articles/serializable-parallel.md)
 - [Интерфейсы](articles/interfaces.md) (почему стоит выделять абстракции)
 - [Бомбежка за ООП и здравый смысл](articles/oop-rage.md)
-- [Kotlin: Почему нет?](https://t.me/kydavoiti/30)
+- [Kotlin: Почему нет?](articles/no-kotlin.md)
 - [Небольшая заметка о “честной” асинхронности](https://t.me/kydavoiti/35)
 - [Код пишет код](https://t.me/kydavoiti/36)
 - [Про GPL](https://t.me/kydavoiti/39)

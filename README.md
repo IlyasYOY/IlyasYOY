@@ -10,7 +10,7 @@ I work as a Software Developer @ _EPAM Systems_. Since 2018.
 - [Оч странная штука](https://t.me/kydavoiti/15) (не спрашивайте почему)
 - [Seize the block](articles/async.md)
 - [Последовательное распараллеливание](articles/serializable-parallel.md)
-- [Интерфейсы](https://t.me/kydavoiti/21) (почему стоит выделять абстракции)
+- [Интерфейсы](articles/interfaces.md) (почему стоит выделять абстракции)
 - [Бомбежка за ООП и здравый смысл](https://t.me/kydavoiti/24)
 - [Kotlin: Почему нет?](https://t.me/kydavoiti/30)
 - [Небольшая заметка о “честной” асинхронности](https://t.me/kydavoiti/35)

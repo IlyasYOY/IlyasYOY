@@ -9,7 +9,7 @@ I work as a Software Developer @ _EPAM Systems_. Since 2018.
 - [Диплом по NLP](https://t.me/kydavoiti/10)
 - [Оч странная штука](https://t.me/kydavoiti/15) (не спрашивайте почему)
 - [Seize the block](articles/async.md)
-- [Последовательное распараллеливание](https://t.me/kydavoiti/20)
+- [Последовательное распараллеливание](articles/serializable-parallel.md)
 - [Интерфейсы](https://t.me/kydavoiti/21) (почему стоит выделять абстракции)
 - [Бомбежка за ООП и здравый смысл](https://t.me/kydavoiti/24)
 - [Kotlin: Почему нет?](https://t.me/kydavoiti/30)

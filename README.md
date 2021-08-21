@@ -26,3 +26,4 @@ Channel where I post [things](https://t.me/kydavoiti).
 - [Равномерное распределение строк](articles/validation.md)
 - [Архитектура 21 века](articles/fund-architecture.md). Обзор на [“Fundamentals of Software Architecture | Mark Richards, Neal Ford”](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 - [Я сказал стартуем](articles/starting.md).
+- [Монолог про ООП](articles/oop.md)

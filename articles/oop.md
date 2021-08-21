@@ -1,4 +1,6 @@
 # Монолог про ООП
+[Telegram: Contact @kydavoiti](https://t.me/kydavoiti/76)
+
 Разговоры про **ООП** у меня встречаются *слишком часто*. Реплики стабилизировались, поэтому я решил описать их в тексте. Могу порекомендовать почитать по этому вопросу [Чистая архитектура](https://www.litres.ru/robert-s-martin/chistaya-arhitektura-iskusstvo-razrabotki-program-39113892/?utm_source=google&utm_medium=cpc&utm_campaign=search_dsa_ohvat_f%7C2087774395&utm_term=&utm_content=375733693660%7Bphrase_id%7D_%7Bsource%7D_%7Bsource_type%7D_%7Bregion_name%7D_9047064&param_2=987239&gclid=Cj0KCQjwpf2IBhDkARIsAGVo0D3iz5U9HoTCFhrMgtmXFaXkEIOYvc6YWfqWBqqWQdzrgO72oSuZ3QwaAvvaEALw_wcB) и статьи. Со вторым быть аккуратнее. 
 
 Долго не будем мусолить — начнем.
@@ -15,7 +17,7 @@
 - **Инкапсуляция**
 - **Наследование**
 - **Полиморфизм**
-- Абстракция (не всегда, я отношусь к не всегда)
+- ~Абстракция~ (не всегда, я отношусь к не всегда)
 
 Но не всегда это делают верно. Вот [тут](https://training.epam.ua/#!/News/275?lang=ru), например. Часто все понятия с собой не связаны. Так быть не должно.
 

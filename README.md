@@ -24,3 +24,4 @@ Software Developer @ __EPAM Systems__. _Since 2018_.
 - [Архитектура 21 века](articles/fund-architecture.md). Обзор на [“Fundamentals of Software Architecture | Mark Richards, Neal Ford”](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 - [Я сказал стартуем](articles/starting.md).
 - [Монолог про ООП](articles/oop.md)
+- [Секреты Optional](articles/optional-secrets.md)

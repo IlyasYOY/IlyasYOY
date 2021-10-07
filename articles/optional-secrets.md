@@ -96,7 +96,7 @@
 
 И даже не так: 
 ```java
-        public String rawCompiledVersion() {
+        public Optional<String> rawCompiledVersion() {
             Optional<String> result = Optional.ofNullable(compiledVersion)
                 .map(Object::toString);
 

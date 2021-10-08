@@ -61,6 +61,58 @@
 
 В чем плюсы вариантов **без** `Optional`? В том, что *jacoco*  при проверке покрытия ветвей и при требовании к покрытию больше 50% — **попросит вас написать тест на оба случая**.  Такое использование `Optional` влечет то, что код останется не протестирован. Так можно упрятать любое кол-во бизнес решений. Поэтому, **используя Optional , вы осознанно или нет понижаете покрытие своего кода тестами**, если не строите покрытие у себя в голове, держа все случаи в уме.  Вы такой гений? Не понимаю тогда, что вы вообще делаете, читая этот текст 🤔
 
+Примеры покрытия: 
+```java
+// Code 
+
+@UtilityClass
+public class Utils {
+    public static String getUpperCaseIFNotBlankOrDefault(Map<String, String> map, String key, String defaultValue) {
+        return Optional.ofNullable(map.get(key))
+                .filter(StringUtils::isNotEmpty)
+                .map(String::toUpperCase)
+                .orElse(defaultValue);
+    }
+
+    public static String getUpperCaseIFNotBlankOrDefaultNoOpt(Map<String, String> map, String key, String defaultValue) {
+        String value = map.get(key);
+        // Тут специально не StringUtils, суть не поменяется.
+        if (value == null || value.isEmpty()) { // Missed 2 of 4 branches
+            return defaultValue; // Not covered
+        }
+
+        return value.toUpperCase(Locale.ROOT);
+    }
+}
+
+// Tests 
+
+public class UtilsTest {
+
+    @Test
+    public void testGetUpperCaseIFNotBlankOrDefault() {
+        HashMap<String, String> map = new HashMap<>();
+        map.put("key", "value");
+
+        String upperCaseIFNotBlankOrDefault = Utils.getUpperCaseIFNotBlankOrDefault(map, "key", "default");
+
+        assertThat(upperCaseIFNotBlankOrDefault).isEqualTo("VALUE");
+    }
+
+    @Test
+    public void testGetUpperCaseIFNotBlankOrDefaultNoOpt() {
+        HashMap<String, String> map = new HashMap<>();
+        map.put("key", "value");
+
+        String upperCaseIFNotBlankOrDefault = Utils.getUpperCaseIFNotBlankOrDefaultNoOpt(map, "key", "default");
+
+        assertThat(upperCaseIFNotBlankOrDefault).isEqualTo("VALUE");
+    }
+}
+```
+
+Идентичные тесты покрывают код с `Optional` и не покрывают без.
+
 ### Allocation master
 
 > Это не критичная проблема. Сборка будет в молодом  поколении. **НО!** Я предлагаю не забывать об этом.  

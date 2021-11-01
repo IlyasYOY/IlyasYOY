@@ -25,3 +25,4 @@ Software Developer @ __EPAM Systems__. _Since 2018_.
 - [Я сказал стартуем](articles/starting.md).
 - [Монолог про ООП](articles/oop.md)
 - [Секреты Optional](articles/optional-secrets.md)
+- [Как работать](articles/how-to-work.md)

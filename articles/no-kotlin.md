@@ -4,7 +4,7 @@
 ## Введение
 В этой заметке содержится мое мнение по поводу использования **Kotlin** в больших командах, как замену **Java**. Чтобы быть последовательным сравнение будет производится как обсуждение преимуществ **Kotlin**, которые [есть на официальном сайте](https://kotlinlang.ru/docs/reference/comparison-to-java.html) этого языка. В конце будет мое личное мнение на этот счёт + резюме.  
 Подписывайтесь, ставьте лайки: [Telegram: Contact @kydavoiti](https://t.me/kydavoiti)
-Пишите в [Telegram: Contact @Im_Ilya](https://t.me/Im_Ilya), потрындим.
+Пишите в [Telegram: Contact @kydavoitichat](https://t.me/kydavoitichat), потрындим.
 
 ## Обсуждение пунктов
 ### Ссылки на null контролируются системой типов

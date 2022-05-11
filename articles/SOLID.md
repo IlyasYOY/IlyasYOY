@@ -103,5 +103,5 @@ public class AService {
 Помните, это моя интерпретация этих принципов. *Я не хочу вам пересказывать Википедию*.
 
 Спасибо за внимание, я надеюсь вам это было полезно! Как всегда, пишите мне, подписывайтесь на телеграм и так далее, буду рад вам!
-Я: [Telegram: Contact @Im_Ilya](https://t.me/Im_Ilya)
+Я: [Telegram: Contact @kydavoitichat](https://t.me/kydavoitichat)
 Канал: [Telegram: Contact @kydavoiti](https://t.me/kydavoiti/43)

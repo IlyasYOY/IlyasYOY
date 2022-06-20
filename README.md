@@ -4,6 +4,8 @@ Languages: Russian, English.
 
 Software Developer @ __EPAM Systems__. _Since 2018_.
 
+[YouTube](https://www.youtube.com/channel/UC0roTC_a-ddu-ic6FfBxQrg)
+
 #### Notes in Russian
 
 - [Spring Validation 101](articles/validation.md)

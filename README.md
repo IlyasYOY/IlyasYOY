@@ -2,7 +2,7 @@
 
 Languages: Russian, English.
 
-Software Develope _since 2018_.
+Software Developer _since 2018_.
 
 [YouTube](https://www.youtube.com/channel/UC0roTC_a-ddu-ic6FfBxQrg)
 

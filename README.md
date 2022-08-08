@@ -2,7 +2,7 @@
 
 Languages: Russian, English.
 
-Software Developer @ __EPAM Systems__. _Since 2018_.
+Software Develope _since 2018_.
 
 [YouTube](https://www.youtube.com/channel/UC0roTC_a-ddu-ic6FfBxQrg)
 

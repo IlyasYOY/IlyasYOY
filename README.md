@@ -4,7 +4,7 @@ Languages: Russian, English.
 
 Software Developer _since 2018_.
 
-[YouTube](https://www.youtube.com/channel/UC0roTC_a-ddu-ic6FfBxQrg)
+[YouTube](https://www.youtube.com/c/Кудавойти)
 
 #### Notes in Russian
 

@@ -26,6 +26,7 @@ Software Developer _since 2018_.
 #### 🐹 Go
 
 - **[tasks-assistant-telegram-bot](https://github.com/IlyasYOY/tasks-assistant-telegram-bot)** — Telegram bot for task management powered by LLM
+- **[telethings](https://github.com/IlyasYOY/telethings)** — Telegram Bot to work with Things3
 - **[go-test-internals-examples](https://github.com/IlyasYOY/go-test-internals-examples)** — Examples from "Go test internals" video
 - **[httpservertest](https://github.com/IlyasYOY/httpservertest)** — Minimal HTTP server for testing
 - **[monotask](https://github.com/IlyasYOY/monotask)** — CLI task runner

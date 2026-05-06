@@ -12,11 +12,12 @@ Software Developer _since 2018_.
 
 ### Projects
 
-#### 🔌 NeoVim Plugins
+#### 🔌 Neovim Plugins
 
-- **[obs.nvim](https://github.com/IlyasYOY/obs.nvim)** — Obsidian-like NeoVim plugin
+- **[obs.nvim](https://github.com/IlyasYOY/obs.nvim)** — Obsidian-like Neovim plugin
+- **[ts-pack.nvim](https://github.com/IlyasYOY/ts-pack.nvim)** — Neovim plugin to manage treesitter parsers.
 - **[theme.nvim](https://github.com/IlyasYOY/theme.nvim)** — Neovim theme convenient for everyday use
-- **[git-link.nvim](https://github.com/IlyasYOY/git-link.nvim)** — Plugin to generate links to Git repositories in NeoVim
+- **[git-link.nvim](https://github.com/IlyasYOY/git-link.nvim)** — Plugin to generate links to Git repositories in Neovim
 
 #### 🖥️ Dotfiles & Config
 

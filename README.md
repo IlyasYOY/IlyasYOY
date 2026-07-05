@@ -51,6 +51,5 @@ Software Developer _since 2018_.
 
 #### 🌐 Frontend
 
-- **[wheschi](https://github.com/IlyasYOY/wheschi)** — Desktop-first task manager built with Electron, Vite, React, and TypeScript
 - **[traefik-example](https://github.com/IlyasYOY/traefik-example)** — Blog frontend with React + Go + Traefik `[archived]`
 - **[js-template](https://github.com/IlyasYOY/js-template)** — JS project template: React & Redux `[archived]`

@@ -25,7 +25,6 @@ Software Developer _since 2018_.
 - [spellfix.nvim](https://github.com/IlyasYOY/spellfix.nvim) — Fix spelling at the speed of thought
 - [test-toggle.nvim](https://github.com/IlyasYOY/test-toggle.nvim) — Switch between source and test files
 - [theme.nvim](https://github.com/IlyasYOY/theme.nvim) — Neovim theme for everyday use
-- [ts-pack.nvim](https://github.com/IlyasYOY/ts-pack.nvim) — nvim-treesitter fork inspired by vim.pack
 
 #### Go
 

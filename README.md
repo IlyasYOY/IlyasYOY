@@ -31,8 +31,6 @@ Software Developer _since 2018_.
 CLIs I use day-to-day:
 
 - [monotask](https://github.com/IlyasYOY/monotask) — One CLI to find them all
-- [singularity-mcp](https://github.com/IlyasYOY/singularity-mcp) — MCP server for Singularity
-
 
 Experiments:
 

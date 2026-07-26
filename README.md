@@ -41,9 +41,6 @@ Experiments:
 - [cosas](https://github.com/IlyasYOY/cosas) — Things 3-like terminal task manager
 - [httpservertest](https://github.com/IlyasYOY/httpservertest) — Simple Go HTTP server for testing
 - [tasks-assistant-telegram-bot](https://github.com/IlyasYOY/tasks-assistant-telegram-bot) — LLM-powered personal task manager for Telegram
-
-Research:
-
 - [go-test-internals-examples](https://github.com/IlyasYOY/go-test-internals-examples) — Examples for the Go test internals video
 - [exectest](https://github.com/IlyasYOY/exectest) — Declarative CLI testing
 - [go-retry](https://github.com/IlyasYOY/go-retry) — Simple retries for Go

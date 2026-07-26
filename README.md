@@ -14,6 +14,9 @@ Software Developer _since 2018_.
 #### Configuration
 
 - [dotfiles](https://github.com/IlyasYOY/dotfiles) — Personal workstation configuration
+- [nvim-workbench](https://github.com/IlyasYOY/nvim-workbench) — Personal Neovim configuration and local plugin-development workbench
+- [agent-workbench](https://github.com/IlyasYOY/agent-workbench) — Personal Codex and OpenCode tooling workbench
+
 
 #### Neovim
 

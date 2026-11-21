@@ -11,6 +11,12 @@ Software Developer _since 2018_.
 
 ### Projects
 
+#### Apps and games
+
+- [Stack Attack](https://github.com/IlyasYOY/stack-attack) · Vibe-coded arcade roguelite in Godot for Android and Web. [Play in your browser](https://stack-attack-ilyasyoy.ilyasyoy.chatgpt.site).
+- [Android Voice Dictation](https://github.com/IlyasYOY/android-voice-dictation) · Vibe-coded Android dictation with a floating keyboard control, OpenAI transcription, and optional text cleanup.
+
+
 #### Configuration
 
 - [dotfiles](https://github.com/IlyasYOY/dotfiles) — Personal workstation configuration
